@@ -37,9 +37,11 @@ Available positions: engineer (428) + senior engineers (256) + assistant enginee
 •	Result: there is opportunity for remaining engineers to cross train as staff and have hands on experience.
 	Bulleted results list with major points from the employees eligible for mentorship program
 	analysis deliverable.
+	https://github.com/frankxsu11ivan/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis%20PICTS/available_titles.png
 •	Available eligible positions: 1550. Enough positions for re-tooling with out re-hiring.
 •	Result: there is opportunity for remaining engineers to cross train as staff in all departments.
 	continuing to build on their data analyst skills.
+	
 
 ---unsolicted recommendation:
 	Do not hire more employees.
